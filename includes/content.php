@@ -2,17 +2,17 @@
 /***********************************************CONSTANTS*************************************************************************/
 	if ($_SERVER['HTTP_HOST'] == 'localhost')
 	{
-		define("HOST", "localhost");
-		define("USER", "root");
-		define("PASS", "1550");
-		define("BASE", "less-insecure");
+		define("HOST", "");
+		define("USER", "");
+		define("PASS", "");
+		define("BASE", "e");
 	}
 	else
 	{
-		define("HOST", "sql107.freesite.vip");
-		define("USER", "frsiv_25076911");
-		define("PASS", "Not1550");
-		define("BASE", "frsiv_25076911_lessinsecure");
+		define("HOST", "");
+		define("USER", "");
+		define("PASS", "");
+		define("BASE", "");
 	}
 	
 /***********************************************************************************************************************************/
