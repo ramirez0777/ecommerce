@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=PT+Sans&display=swap');
+
+.main-wrap
+{
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.wrap
+{
+	display: flex;
+	justify-content: center;
+	width: 45%;
+	margin: 10px auto;
+	padding: 10px;
+	background-color: #b8edf9;
+	border-radius: 9px;
+	
+}
+
+.product-pic
+{
+	width: 200px;
+	height: 200px;
+}
+
+.text-wrap
+{
+	margin-left: 10px;
+}
+
+.name
+{
+	background-color: #0D98BA;
+	padding: 5px;
+	color: white;
+	border-radius: 5px;
+	font-size: 25px;
+	letter-spacing: 1px;
+	margin-bottom: 10px;
+	font-family: 'Bangers', cursive;
+}
+
+
+.price
+{
+	font-size: 30px;
+	color: #006400;
+	text-decoration: underline;
+	margin-top: 5px;
+	font-family: 'Bangers', cursive;
+}
+
+.link
+{
+	margin: 25px auto 0 auto;
+	background-color: #0472D1;
+	border-radius: 2px;
+	padding: 5px;
+	width: 40%;
+	text-align: center;
+	display: block;
+	color: white;
+	text-decoration: none;
+	font-family: 'PT Sans', sans-serif;
+	
+}
+
+.description
+{
+	font-family: 'PT Sans', sans-serif;
+	background-color: white;
+	border-radius: 5px;
+	padding: 5px;
+}
+
+.login
+{
+	color: #A22324;
+}

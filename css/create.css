@@ -1,0 +1,53 @@
+.center
+{
+	margin: 0 auto;
+	display: block;
+	padding-bottom: 30px;
+}
+
+form
+{
+	width: 30%;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+input
+{
+	width: 100%;
+	margin-bottom: 15px;
+	padding: 5px;
+	border-radius: 5px;
+	border-color: #0D98BA;
+	border-width: 1px;
+	/* background-color: #b8edf9; */
+}
+
+input.submit, input.reset
+{
+	border-color: #0D98BA;
+	padding: 10px;
+	background-color: #0D98BA;
+	color: white;
+	font-size: 20px;
+}
+
+.hide
+{
+	display: none;
+}
+
+.show-pass
+{
+	color: red;
+	text-align: center;
+}
+
+.error
+{
+	text-align: center;
+	color: red;
+	padding-bottom: 15px;
+	font-weight: bold;
+	font-size: 20px;
+}

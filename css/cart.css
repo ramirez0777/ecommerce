@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=PT+Sans&display=swap');
+
+
+main
+{
+	padding: 50px;
+}
+
+.main-wrap
+{
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.wrap
+{
+	display: flex;
+	justify-content: center;
+	width: 80%;
+	margin: 0 auto;
+	padding: 30px;
+	background-color: #b8edf9;
+	/* border-radius: 9px; */
+	
+}
+
+.product-pic
+{
+	width: 200px;
+	height: 200px;
+}
+
+.text-wrap
+{
+	margin-left: 10px;
+}
+
+.name
+{
+	background-color: #0D98BA;
+	padding: 5px;
+	color: white;
+	border-radius: 5px;
+	font-size: 25px;
+	letter-spacing: 1px;
+	margin-bottom: 10px;
+	font-family: 'Bangers', cursive;
+}
+
+
+.price
+{
+	font-size: 30px;
+	color: #006400;
+	text-decoration: underline;
+	margin-top: 5px;
+	font-family: 'Bangers', cursive;
+}
+
+.description, .description-1
+{
+	font-family: 'PT Sans', sans-serif;
+	background-color: white;
+	border-radius: 5px;
+	padding: 5px;
+	margin: 10px auto 10px auto;
+}
+
+.description-1
+{
+	text-align: center;
+	font-size: 30px;
+}
+
+.pic
+{
+	display: block;
+	margin: 70px auto;
+}
+
+.link
+{
+	margin: 25px auto 0 auto;
+	background-color: #0472D1;
+	border-radius: 9px;
+	border: 1px solid white;
+	padding: 10px;
+	width: 30%;
+	text-align: center;
+	display: block;
+	color: white;
+	font-size: 18px;
+	font-family: 'PT Sans', sans-serif;	
+}
+
+.green
+{
+	color: green;
+}
+
+.blue
+{
+	color: blue;
+}
+
