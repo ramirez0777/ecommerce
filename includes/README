@@ -1,0 +1,1 @@
+E-Commerce site built using PHP. Connects to two tables, the users table and products. Easily convertible to objects. Every function is built like an object, and is a psuedo class.
